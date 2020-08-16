@@ -29,15 +29,16 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav ml-auto">
                 <li class="nav-itemtive">
-                  <a class="nav-link" href="#">HOME </a>
+                  <a class="nav-link" href="#top">HOME </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">ABOUT US</a>
+                  <a class="nav-link" href="#about">ABOUT US</a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <a class="nav-link dropdown-toggle" href="#services" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     SERVICES
                   </a>
+                  <!-- Add smooth scroll effect to the dropdown links in future by pasting id 'link' in #href-->
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="#">Action</a>
                     <a class="dropdown-item" href="#">Another action</a>
@@ -46,16 +47,16 @@
                   </div>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">OUR TEAM</a>
+                  <a class="nav-link" href="#team">OUR TEAM</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">PROJECTS</a>
+                  <a class="nav-link" href="#promo">PROJECTS</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">TESTIMONIALS</a>
+                  <a class="nav-link" href="#testimonials">TESTIMONIALS</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">CONTACT</a>
+                  <a class="nav-link" href="#contact">CONTACT</a>
                 </li>
               </ul>
               <form class="form-inline my-2 my-lg-0">
@@ -196,7 +197,6 @@
         <p>
           la:ijakjnuiiuuuuuuuuiuih jujuaib ij yq iyqi bisuiiuuuuuuuuiuih 
           la:ijakjnuiiuuuuuuuuiuih jujuaib ij yq iyqi biuiiuuuuuuuuiuih
-          j
         </p>
       </div>
       <div class="col-md-3 text-center">
@@ -286,7 +286,7 @@
       <h4>AGGES and Youthmappers has open invitation doors and is welcoming anyone from any Campus
          who is willing and ready to share with us on Matters on Geospatial Technologies,Remote sensing,
         Surveying and Mapping.</h4>
-      <a href="#" class="btn btn-success">Reach Out to Us</a>
+      <a href="#contact" class="btn btn-success">Reach Out to Us</a>
     </div>
 </section>
 <!---------- Promo End ----------->
@@ -311,6 +311,25 @@
             </ul>
           </div>
           <div class="price-button">
+            <a class="buy-btn" href="#contact">Join Free</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="single-price">
+          <div class="price-head">
+            <h2>Free</h2>
+            <p>$0/<span>Month</span></p>
+          </div>
+          <div class="price-content">
+            <ul>
+              <li><i class="fa fa-check-circle"></i>5GB Space</li>
+              <li><i class="fa fa-check-circle"></i>10GB Bandwidth</li>
+              <li><i class="fa fa-times-circle"></i>15 Email Account</li>
+              <li><i class="fa fa-times-circle"></i>Unlimited Domain</li>              
+            </ul>
+          </div>
+          <div class="price-button">
             <a class="buy-btn" href="#">Join Free</a>
           </div>
         </div>
@@ -326,8 +345,7 @@
               <li><i class="fa fa-check-circle"></i>5GB Space</li>
               <li><i class="fa fa-check-circle"></i>10GB Bandwidth</li>
               <li><i class="fa fa-times-circle"></i>15 Email Account</li>
-              <li><i class="fa fa-times-circle"></i>Unlimited Domain</li>
-              <li><i class="fa fa-times-circle"></i>Unlimited Support</li>
+              <li><i class="fa fa-times-circle"></i>Unlimited Domain</li>              
             </ul>
           </div>
           <div class="price-button">
@@ -351,27 +369,7 @@
             </ul>
           </div>
           <div class="price-button">
-            <a class="buy-btn" href="#">Join Free</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3">
-        <div class="single-price">
-          <div class="price-head">
-            <h2>Free</h2>
-            <p>$0/<span>Month</span></p>
-          </div>
-          <div class="price-content">
-            <ul>
-              <li><i class="fa fa-check-circle"></i>5GB Space</li>
-              <li><i class="fa fa-check-circle"></i>10GB Bandwidth</li>
-              <li><i class="fa fa-times-circle"></i>15 Email Account</li>
-              <li><i class="fa fa-times-circle"></i>Unlimited Domain</li>
-              <li><i class="fa fa-times-circle"></i>Unlimited Support</li>
-            </ul>
-          </div>
-          <div class="price-button">
-            <a class="buy-btn" href="#">Join Free</a>
+            <a class="buy-btn" href="#contact">Join Free</a>
           </div>
         </div>
       </div>
@@ -381,11 +379,97 @@
 <!----------Price Plan End------------->
 <!----------Testimonials------------->
 
-<section>
-  
+<section id="testimonials">
+  <div class="container">
+    <h1>Testimonials</h1>
+    <!-- class text-centre aligns the p text at the centre -->
+    <p class="text-center">Stay tuned on our postings not to miss any meet-up and lessons.</p>
+    <div class="row">
+      <div class="col-md-3 text-center">
+        <div class="profile">
+          <img src="img/profiles/woman1.png" class="user">
+          <blockquote>Agges and YouthMappers is the club to join to have the best 
+            user and learner experience.</blockquote>
+             <h3>Inspired Student <span>Student. </span></h3>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="profile">
+          <img src="img/profiles/male1.png" class="user">
+          <blockquote>Agges and YouthMappers is the club to join to have the best 
+            user and learner experience.</blockquote>
+             <h3>Inspired Student <span>Student. </span></h3>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="profile">
+          <img src="img/profiles/woman1.png" class="user">
+          <blockquote>Agges and YouthMappers is the club to join to have the best 
+            user and learner experience.</blockquote>
+             <h3>Inspired Student <span>Student. </span></h3>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="profile">
+          <img src="img/profiles/male1.png" class="user">
+          <blockquote>Agges and YouthMappers is the club to join to have the best 
+            user and learner experience.</blockquote>
+             <h3>Inspired Student <span>Student. </span></h3>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
-
 <!----------Testimonials End------------->
-
+<!----------Get in Touch------------->
+<section id="contact">
+  <div class="container">
+    <h1>Get In Touch</h1>
+    <div class="row">
+      <div class="col-md-6">
+        <form class="contact-form">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Name e.g John Doe">
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Phone No : e.g +254700 000 000">
+          </div>
+          <div class="form-group">
+            <input type="email" class="form-control" placeholder="Email: john.doe@domain.com">
+          </div>
+          <div class="form-group">
+            <textarea class="form-control" rows="4" placeholder="Write to AGGES here..."></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Send Message</button>
+        </form>
+      </div>
+      <div class="col-md-6 contact-info">
+        <div class="follow"><b>Address:</b><i class="fa fa-map-marker"></i> Thika Road,Thika, KE</div>
+        <div class="follow"><b>Phone:</b><i class="fa fa-phone"></i> +254705-583-483</div>          
+        <div class="follow"><b>Email:</b><i class="fa fa-envelope-o"></i> jkuatagges@gmail.com</div>
+          <div class="follow"><label><b>Get Social:</b></label>
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-whatsapp"></i></a>
+          </div>
+      </div>
+      </div>
+  </div>
+</section>
+<!----------Get in Touch End------------->
+<!----------Footer------------->
+<section id="footer">
+  <div class="container text-center">
+    <p>&copy; Copyright Jay_Labs | Tech73Core.</p>
+</div>
+</section>
+<!----------Footer End------------->
+<!-- Smooth scroll -->
+<!-- direct download -->
+<script src="path/to/smooth-scroll.polyfills.min.js"></script>
+<!-- Initialize smooth-scroll -->
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]');
+</script>
 </body>
 </html>

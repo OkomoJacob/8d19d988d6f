@@ -1,3 +1,10 @@
+/* BUGS 
+All bugs can be fixed by checking out easy community for Memebers only
+Search
+Nav effects
+Quote Marks
+Get in touch icons .fa not fully designed
+  */
 *{
     margin: 0;
     padding: 0;
@@ -356,5 +363,136 @@ ul li:last-child{
 a{
     text-decoration: none !important;
 }
+/* ------------Testimonials------------*/
+#testimonials{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#testimonials h1{
+    text-align: center;
+    color: #3f3a3a !important;
+    padding-bottom: 10px;
+}
+#testimonials h1::after{
+    content: '';
+    background: #007bff;
+    display: block;
+    height: 3px;
+    width: 170px;
+    margin: 20px auto 5px;
+}
+#testimonials .row{
+    margin-top: 30px;
+}
+.col-md-3{
+    margin: 40px auto;
+}
+.profile{
+    padding: 70px 10px 10px;
+    background-color: #efefef;
+}
+.user{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+/* Positioning the profile pic at the testimonials in the center */
+.profile img{
+    top: -60px;
+    position: absolute;
+    left: calc(50% - 60px);
+    border: 10px solid #fff;
+}
+.profile h3{
+    font-size: 20px;
+    margin-top: 15px;
+    color: #007bff;
+}
+#testimonials span{
+    font-size: 12px;
+    color: #333;
+}
+blockquote{
+    font-size: 16px;
+    line-height: 30px;
+}
 
+/* Fix Bug in the quotations marks in the testimonials section(01:26:15) */
 
+blockquote::before{
+    content: '\93'; /*--opening quote icon--*/
+    font-size: 50px;
+    color: #007bff;
+    position: relative;
+    line-height: 20px;
+    bottom: -15px;
+    right: 5px;
+}
+blockquote::after{
+    content: '\94'; /*--opening quote icon--*/
+    font-size: 50px;
+    color: #007bff;
+    position: relative;
+    line-height: 10px;
+    bottom: -15px;
+    left: 5px;
+}
+/* Fix Bug in the quotations marks in the testimonials section */
+.profile:hover{
+    box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
+    cursor: pointer;
+    transition: 0.5s;
+}
+/* ------------Testimonials End------------*/
+/* ------------Get in Touch------------*/
+#contact h1{
+    text-align: center;
+    color: #3f3a3a !important;
+    padding-bottom: 10px;
+}
+#contact h1::after{
+    content: '';
+    background: #007bff;
+    display: block;
+    height: 3px;
+    width: 170px;
+    margin: 20px auto 5px;
+}
+
+#contact{
+    background-color: #efefef;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    columns: #777;
+}
+.contact-form{
+    padding: 15px;
+}
+.form-control{
+    border-radius: 20px !important;
+    border: #66e05b !important;
+}
+.form-group::placeholder{
+    color: rgb(124, 117, 117) !important;
+}
+#contact .btn{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 16px;
+}
+.follow{
+    background: #fff;
+    padding: 10px;
+    margin: 15px;
+}
+.contact-info .fa{
+    margin: 10px;
+    columns: #007bff;
+    font-weight: bold;
+}
+/*---------------Footer---------------*/
+#footer{
+    background:  rgb(9, 16, 37);
+    color: #fff;
+    padding: 12px;
+}
