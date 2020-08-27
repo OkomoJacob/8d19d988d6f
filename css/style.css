@@ -69,11 +69,29 @@ Get in touch icons .fa not fully designed
 #slider{
     width: 100%;    
 }
-/* .carousel-caption{
-    top: 50%;
-    transform: translateY(-50%);
+.carousel-caption h2{
+    top: 80%;
+    transform: translateY(-500%);
     bottom: initial!important;
-} */
+}
+#slider .carousel-caption h2{
+    text-align: center;
+    color: #efefef !important;
+    padding-bottom: 1px;
+}
+#slider .carousel-caption h3{
+    text-align: center;
+    color: #efefef !important;
+    padding-bottom: 10px;
+}
+#slider .carousel-caption h2::after{
+    content: '';
+    background: #00ff4c;
+    display: block;
+    height: 3px;
+    width: 350px;
+    margin: 20px auto 5px;
+}
 .carousel-caption h5{
     color: #fff;
     font-size: 42px;
@@ -111,7 +129,7 @@ Get in touch icons .fa not fully designed
 /* -------------Services------------- */
 #services{
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),
-    url(img/finalists_william.jpg);
+    url(/img/services/finalists_william.jpg);
     background-size: cover;
     background-position: center;
     color: #efefef !important;
@@ -156,7 +174,7 @@ Get in touch icons .fa not fully designed
     transition: 1.2s;
     border-radius: 20px;
 }
-/* ------------Team Members------------ */
+/* ------------Executives------------ */
 #team{
     padding-top: 50px;
     padding-bottom: 50px;
@@ -229,11 +247,11 @@ h1::after{
 .img-box ul, .img-box ul li{
     transform: 0.5s;
 }
-/* ------------Team Members End---------*/
-/* ------------Promo Section------------*/
+/* ------------Executives End---------*/
+/* ------------ Learn With Us Section------------*/
 #promo{
     background-image: linear-gradient(rgba(0,0,0,0.7),
-    rgba(0,0,0,0.7)),url(img/suolo_kioko.jpg);
+    rgba(0,0,0,0.7)),url(/img/learn_with_us/suolo_kioko.jpg);
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -256,7 +274,7 @@ h1::after{
     width: 350px;
     margin: 20px auto 5px;
 }
-/* ------------Promo Section End------------*/
+/* ------------ Learn With Us Section End------------*/
 /* ------------Price plans------------*/
 #price h1{
     text-align: center;
@@ -433,21 +451,28 @@ blockquote::after{
     font-size: 50px;
     color: #007bff;
     position: relative;
+    font-family: 'FontAwesome';
     line-height: 10px;
     bottom: -15px;
     left: 5px;
 }
-/* Fix Bug in the quotations marks in the testimonials section */
+/* Fix Bug in the quotations marks in the testimonials section end*/
 .profile:hover{
     box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
     cursor: pointer;
     transition: 0.5s;
 }
 /* ------------Testimonials End------------*/
-/* ------------Get in Touch------------*/
+/* ------------Footer Above------------*/
+#contact{
+    background:  #1f3f97 !important;
+    color: #fff;
+    padding: 12px;
+}
+/*  */
 #contact h1{
     text-align: center;
-    color: #3f3a3a !important;
+    color: #fdfdfd !important;
     padding-bottom: 10px;
 }
 #contact h1::after{
@@ -458,11 +483,10 @@ blockquote::after{
     width: 170px;
     margin: 20px auto 5px;
 }
-
 #contact{
     background-color: #efefef;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 0px;
     columns: #777;
 }
 .contact-form{
@@ -490,9 +514,23 @@ blockquote::after{
     columns: #007bff;
     font-weight: bold;
 }
-/*---------------Footer---------------*/
+
+.footer .footer-content .links ul a{
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 1.2em;
+    transition: all .3s;
+}
+.footer .footer-content .links ul a:hover{
+    color: rgb(219, 228, 87);
+    margin-left: 18px;
+    transition: all .3s;
+}
+/*---------------Footer Above ---------------*/
+/*---------------Footer Bottom---------------*/
 #footer{
-    background:  rgb(9, 16, 37);
+    background:  rgb(22, 44, 107);
     color: #fff;
     padding: 12px;
 }

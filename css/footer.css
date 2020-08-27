@@ -1,0 +1,97 @@
+/* Body */
+html,
+body{
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    background: #f6f6f6;
+    font-family: 'Lora', serif;
+}
+.page-wrapper{
+    min-height: 100%;
+    
+}
+
+/* Footer */
+.footer{
+    background: #303036;
+    color: #d3d3d3;
+    height: 400px;
+    position: relative;  /* fixed at bottom */
+}
+.footer .footer-content{
+    height: 350px;
+    display: flex;
+}
+.footer .footer-content .footer-section{
+    flex: 1; /* Flex divides the footer into 3 main rows*/
+    padding: 25px;
+}
+.footer .footer-content h1,
+.footer .footer-content h2{
+    color: white;
+}
+.footer .footer-content .about h1 span{
+    color: turquoise;
+}
+.footer .footer-content .about .contact span{
+    display: block;
+    font-size: 1.1em;
+    margin-bottom: 8px;
+}
+.footer .footer-content .about .socials a{
+    border: 1px solid gray;
+    width: 45px;
+    height: 41px;
+    padding-top: 5px;
+    margin-right: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.3em;
+    border-radius: 50px;
+}
+.footer .footer-content .about .socials a:hover{
+    border: 1px solid rgb(0, 174, 255);
+    color: rgb(226, 43, 83);
+    transition: all .5s ease-in-out;
+
+}
+.footer .footer-content .contact-form .contact-input{
+    background: #272727;
+    color: #dfd9d9;
+    margin-bottom: 10px;
+    line-height: 1.5rem;
+    padding: 0.7rem 1.2rem;
+    border-radius: 20px;
+}
+.footer .footer-content .contact-form .contact-input:focus{
+    background-color: rgb(54, 75, 70);
+}
+.btn{
+    padding: .5rem 1rem;
+    background: #006669;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    text-align: center;
+}
+.btn-big{
+    padding: .7rem 1.3rem;
+    line-height: 1.3rem;
+}
+.footer .footer-content .contact-form .contact-btn{
+    float: right;
+    padding-left: 1rem;
+    position: absolute;
+}
+.footer .footer-bottom{
+    background: #343a40;
+    color: #686868;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    position: absolute; /* fixed at bottom */
+    bottom: 0px;
+    left: 0px;
+    padding-top: 20px;
+}

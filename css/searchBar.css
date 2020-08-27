@@ -1,0 +1,32 @@
+body{
+    background: #86d7f5;
+}
+.search-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.search-box input{
+    height: 50px;
+    width: 0px;
+    padding: 0px 0px;
+    border-radius: 40px;
+    border: 0px;
+    padding-right: 50px;
+    transition: 1.5s;
+}
+.search-box input:focus{
+    width: 400px;
+    padding-left: 20px;
+}
+.search-box:before{
+     content: "\f002";
+     font-family: 'FontAwesome';
+     position: absolute;
+     right: 18px;
+     top: 3px;
+     line-height: 50px;
+     color: #006990;
+     cursor: pointer;
+}
