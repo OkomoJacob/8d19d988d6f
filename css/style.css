@@ -29,7 +29,7 @@ Get in touch icons .fa not fully designed
     color: #007bff!important;
 }
 /* Hover crimson color start*/
-#nav-bar ul li a::before,
+/* #nav-bar ul li a::before,
 #nav-bar ul li a::after{
     content: '';
     position: absolute;
@@ -51,8 +51,8 @@ Get in touch icons .fa not fully designed
 #navbar-nav ul li a:hover::before,
 #navbar-nav ul li a:hover::after{
     transform: scaleX(1);
-}
-/* Hover crimson color End*/
+} */
+/* Hover crimson color End */
 
 .navbar{
     background: #fff;
@@ -69,10 +69,11 @@ Get in touch icons .fa not fully designed
 #slider{
     width: 100%;    
 }
-.carousel-caption h2{
-    top: 80%;
-    transform: translateY(-500%);
-    bottom: initial!important;
+.carousel-caption-welcome{
+    top: 50%;
+    transform: translateY(-50%);
+    /* float:left; */
+    bottom: initial !important;
 }
 #slider .carousel-caption h2{
     text-align: center;
@@ -89,8 +90,18 @@ Get in touch icons .fa not fully designed
     background: #00ff4c;
     display: block;
     height: 3px;
+    width: 200px;
+    margin: 5px auto 5px;
+}
+#slider .carousel-caption h2:hover::after{
+    content: '';
+    background: #00eeff;
+    display: block;
+    height: 3px;
     width: 350px;
-    margin: 20px auto 5px;
+    margin: 5px auto 5px;
+    transition: all 1.5s ease;
+    cursor: progress;
 }
 .carousel-caption h5{
     color: #fff;
@@ -126,10 +137,10 @@ Get in touch icons .fa not fully designed
 }
 /*-------------About End------------- */
 
-/* -------------Services------------- */
-#services{
+/* -------------events------------- */
+#events{
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),
-    url(/img/services/finalists_william.jpg);
+    url(/img/events/finalists_william.jpg);
     background-size: cover;
     background-position: center;
     color: #efefef !important;
@@ -137,12 +148,12 @@ Get in touch icons .fa not fully designed
     padding-top: 50px;
     padding-bottom: 50px;
 }
-#services h1{
+#events h1{
     text-align: center;
     color: #efefef !important;
     padding-bottom: 10px;
 }
-#services h1::after{
+#events h1::after{
     content: '';
     background: #efefef;
     display: block;
@@ -150,7 +161,7 @@ Get in touch icons .fa not fully designed
     width: 175px;
     margin: 20px auto 5px;
 }
-.services{
+.events{
     margin-top: 40px;
 }
 .icon{
@@ -163,12 +174,12 @@ Get in touch icons .fa not fully designed
     border-radius: 50%;
     align-items: center;
 }
-#services p{
+#events p{
     font-size: 14px;
     margin-top: 20px;
     color: #ccc;
 }
-.services .col-md-3:hover{
+.events .col-md-3:hover{
     background-color: #16b4e4fd;
     cursor: pointer;
     transition: 1.2s;
@@ -456,7 +467,7 @@ blockquote::after{
     bottom: -15px;
     left: 5px;
 }
-/* Fix Bug in the quotations marks in the testimonials section end*/
+/* Fix Bug in the quotations marks in the testimonials section End*/
 .profile:hover{
     box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
     cursor: pointer;
@@ -489,9 +500,11 @@ blockquote::after{
     padding-bottom: 0px;
     columns: #777;
 }
-.contact-form{
-    padding: 15px;
+/*------- Align the quick links content to the centre -------*/
+.contact-info ul a{
+    padding: .5px;
 }
+/*------- Align the quick links content to the centre end-------*/
 .form-control{
     border-radius: 20px !important;
     border: #66e05b !important;
