@@ -286,13 +286,13 @@ h1::after{
     margin: 20px auto 5px;
 }
 /* ------------ Learn With Us Section End------------*/
-/* ------------Price plans------------*/
-#price h1{
+/* ------------Projects and plans------------*/
+#project h1{
     text-align: center;
     color: #3f3a3a !important;
     padding-bottom: 10px;
 }
-#price h1::after{
+#project h1::after{
     content: '';
     background: #007bff;
     display: block;
@@ -300,11 +300,11 @@ h1::after{
     width: 150px;
     margin: 20px auto 5px;
 }
-#price{
+#project{
     padding: 40 0;
     background: #efefef;
 }
-.single-price{
+.single-project{
     border-radius: 15px;
     margin: 10px auto;
     display: inline;
@@ -313,10 +313,10 @@ h1::after{
     background-color: #fff;
     transition: 0.5s;
 }
-.single-price:hover{
+.single-project:hover{
     box-shadow: 0 2px 20px #333;
 }
-.price-head{
+.project-head{
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-color: #2196f3;
@@ -326,31 +326,32 @@ h1::after{
     text-align: center;
     width: 100%;
 }
-.price-head h2{
+.project-head h2{
     color: #fff;
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 5px;
     padding: 5px;
-    text-transform: uppercase;
+    /* text-transform: uppercase;
+     */
 }
-.price-head p{
+.project-head p{
     font-size: 25px;
     color: #ccc;
     font-weight: bold;
     line-height: 30px;
 }
-#price span{
+#project span{
     font-size: 15px;
 }
-/* -----Price content--- */
-.price-content{
+/* -----project content--- */
+.project-content{
     display: inline;
     float: left;
     width: 100%;
     padding: 0 15px;
 }
-.price-content ul li{
+.project-content ul li{
     border-bottom: 1px solid #efefef;
     padding: 15px 10px;
     list-style: none;
@@ -368,16 +369,16 @@ ul li:last-child{
     margin-right: 10px;
     font-size: 20px;
 }
-/* -----Price content end--- */
-/* ------ Price button----- */
-.price-button{
+/* -----project content end--- */
+/* ------ project button----- */
+.project-button{
     display: inline;
     float: left;
     padding: 15px 15px 30px;
     text-align: center;
     width:100%;
 }
-.buy-btn{
+.join-btn{
     background-color: #2196f3;
     border-radius: 30px;
     display: inline-block;
@@ -385,7 +386,7 @@ ul li:last-child{
     padding: 15px 50px;
     transition: 0.5s;
 }
-.buy-btn:hover{
+.join-btn:hover{
     border-color: 1px solid #fff;
     background-color: rgb(226, 158, 33);
 }
