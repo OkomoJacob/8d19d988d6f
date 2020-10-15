@@ -11,7 +11,8 @@ with our website, we will be in a position to share and reach out to a greater n
 ```
 Images(.png, .jpeg, .jpg files)
 web browser e.g Google chrome, Mozilla Firefox, or Edge to render and debug our code
-Text editor e.g VS Code, for writing and editting the code```
+Text editor e.g VS Code, for writing and editting the code
+```
 
 ## Overview of the final product and everything
 =============================================
