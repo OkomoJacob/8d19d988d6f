@@ -1,0 +1,5 @@
+checkout main
+commit from main
+chheckout master
+merge
+push
