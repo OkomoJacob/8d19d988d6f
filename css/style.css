@@ -213,11 +213,11 @@ h1::after{
     position: relative;
 }
 .profile-pic .img-box img{
-    filter: grayscale(1);
+    filter: grayscale(0);
     border-radius: 50%;
 }
 .profile-pic .img-box img:hover{
-    filter: grayscale(0);
+    filter: grayscale(1);
     cursor: pointer;
 }
 .profile-pic h2{
@@ -393,6 +393,7 @@ ul li:last-child{
 a{
     text-decoration: none !important;
 }
+/* ------------Project end------------*/
 /* ------------Testimonials------------*/
 #testimonials{
     padding-top: 50px;
