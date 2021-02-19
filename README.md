@@ -32,5 +32,5 @@ The main idea was to put the club in cloud for access by any other interested pe
 - It has been further noted that more sections need to be added and more modified, these were proposals from a team member
 
 ### Credits
-We will give credits to any collaboraator at each and every stage of commit.
+We will give credits to any collaboraator at each and every stage of commit. </ br>
 -Thank you
