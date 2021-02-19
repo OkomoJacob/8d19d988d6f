@@ -27,6 +27,9 @@ Through such, we get to learn and share more within our team.
 
 The main idea was to put the club in cloud for access by any other interested person, to have a view and possibly reach out to us.
 
+###  More Additions
+
+- It has been further noted that more sections need to be added and more modified, these were proposals from a team member
 
 ### Credits
 We will give credits to any collaboraator at each and every stage of commit.
