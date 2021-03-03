@@ -213,11 +213,11 @@ h1::after{
     position: relative;
 }
 .profile-pic .img-box img{
-    filter: grayscale(1);
+    filter: grayscale(0);
     border-radius: 50%;
 }
 .profile-pic .img-box img:hover{
-    filter: grayscale(0);
+    filter: grayscale(1);
     cursor: pointer;
 }
 .profile-pic h2{
