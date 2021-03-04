@@ -10,7 +10,66 @@ Get in touch icons .fa not fully designed
     padding: 0;
 }
 /* Social Media */
-
+#social-media{
+    position: fixed;
+    width: 65px;
+    margin-top: 150px;
+    box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, .4);
+}
+#social-media li{
+    height: 60px;
+    position: relative;
+}
+#social-media li a{
+    color: white;
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 60px;
+    padding-left: 25%;
+    border-bottom: 1px solid rgba(0, 0, 0, .4);
+    transition: all .4s ease-in-out;
+}
+#social-media li:nth-child(1) a{
+    background: #4267B2;
+}
+#social-media li:nth-child(2) a{
+    background: #1DA1F2;
+}
+#social-media li:nth-child(3) a{
+    background: #2867B2;
+}
+#social-media li:nth-child(4) a{
+    background: #333;
+}
+#social-media li:nth-child(5) a{
+    background: #25d366;
+}
+#social-media li:nth-child(6) a{
+    background: #e72b35;
+}
+#social-media li a i{
+    position: absolute;
+    top: 17px;
+    left: 20px;
+    font-size: 27px;
+}
+#social-media li a span{
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: none;
+}
+#social-media li a:hover{
+    z-index: 1;
+    width: 200px;
+    border-bottom: 1px solid rgba(0, 0, 0, .5);
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+}
+#social-media li a:hover span{
+    display: block;
+    padding-left: 30%;
+}
 #nav-bar{
     position: sticky;
     top: 0;
