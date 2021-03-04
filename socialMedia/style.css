@@ -9,17 +9,17 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-nav{
+#social-media{
     position: fixed;
     width: 65px;
     margin-top: 150px;
     box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, .4);
 }
-nav li{
+#social-media li{
     height: 60px;
     position: relative;
 }
-nav li a{
+#social-media li a{
     color: white;
     display: block;
     width: 100%;
@@ -29,43 +29,43 @@ nav li a{
     border-bottom: 1px solid rgba(0, 0, 0, .4);
     transition: all .4s ease-in-out;
 }
-nav li:nth-child(1) a{
+#social-media li:nth-child(1) a{
     background: #4267B2;
 }
-nav li:nth-child(2) a{
+#social-media li:nth-child(2) a{
     background: #1DA1F2;
 }
-nav li:nth-child(3) a{
+#social-media li:nth-child(3) a{
     background: #2867B2;
 }
-nav li:nth-child(4) a{
+#social-media li:nth-child(4) a{
     background: #333;
 }
-nav li:nth-child(5) a{
+#social-media li:nth-child(5) a{
     background: #25d366;
 }
-nav li:nth-child(6) a{
+#social-media li:nth-child(6) a{
     background: #e72b35;
 }
-nav li a i{
+#social-media li a i{
     position: absolute;
     top: 17px;
     left: 20px;
     font-size: 27px;
 }
-nav li a span{
+#social-media li a span{
     font-weight: bold;
     letter-spacing: 1px;
     text-transform: uppercase;
     display: none;
 }
-nav li a:hover{
+#social-media li a:hover{
     z-index: 1;
     width: 200px;
     border-bottom: 1px solid rgba(0, 0, 0, .5);
     box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
 }
-nav li a:hover span{
+#social-media li a:hover span{
     display: block;
     padding-left: 30%;
 }
