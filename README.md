@@ -28,6 +28,7 @@ Through such, we get to learn and share more within our team.
 The main idea was to put the club in cloud for access by any other interested person, to have a view and possibly reach out to us.
 
 #### Errata.
+===========
 
 Although we have taken every care to ensure the accuracy my our content, mistakes
 do happen. If you find a mistake in this project—maybe a mistake in the text or
@@ -37,3 +38,7 @@ save others from frustration and help me improve subsequent versions of this min
 #### Credits
 Hitherto, we give sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.com) and [Christine Joy](https://github.com/JoyChristine) who has since been committing to this project.
 -Thank you
+
+##### Progress Report
+-Merge Joy's work(Search bar)
+-Scroll to top working on Elijah's, merge to main from the owl folder
