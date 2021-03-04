@@ -9,7 +9,7 @@ Get in touch icons .fa not fully designed
     margin: 0;
     padding: 0;
 }
-/* Social Media */
+/* Social Media start*/
 #social-media{
     position: fixed;
     width: 65px;
@@ -70,6 +70,7 @@ Get in touch icons .fa not fully designed
     display: block;
     padding-left: 30%;
 }
+/* End of social media */
 #nav-bar{
     position: sticky;
     top: 0;
