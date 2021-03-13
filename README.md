@@ -36,7 +36,7 @@ the code—We would be grateful if you could report this to us via [Jacob Okomo]
 save others from frustration and help me improve subsequent versions of this mini-project and related works. 
 
 #### Credits
-Hitherto, we give sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.com) and [Christine Joy](https://github.com/JoyChristine) who has since been committing to this project.
+Hitherto, we give sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.com),[Elijah Kungu](https://github.com/ELIJAHKUNGU) and [Christine Joy](https://github.com/JoyChristine) who has since been committing to this project.
 -Thank you
 
 ##### Progress Report
