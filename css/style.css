@@ -5,22 +5,28 @@ Nav effects
 Quote Marks
 Get in touch icons .fa not fully designed
   */
-*{
+
+* {
     margin: 0;
     padding: 0;
 }
+
+
 /* Social Media start*/
-#social-media{
+
+#social-media {
     position: fixed;
     width: 65px;
     margin-top: 150px;
     box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, .4);
 }
-#social-media li{
+
+#social-media li {
     height: 60px;
     position: relative;
 }
-#social-media li a{
+
+#social-media li a {
     color: white;
     display: block;
     width: 100%;
@@ -30,67 +36,88 @@ Get in touch icons .fa not fully designed
     border-bottom: 1px solid rgba(0, 0, 0, .4);
     transition: all .4s ease-in-out;
 }
-#social-media li:nth-child(1) a{
+
+#social-media li:nth-child(1) a {
     background: #4267B2;
 }
-#social-media li:nth-child(2) a{
+
+#social-media li:nth-child(2) a {
     background: #1DA1F2;
 }
-#social-media li:nth-child(3) a{
+
+#social-media li:nth-child(3) a {
     background: #2867B2;
 }
-#social-media li:nth-child(4) a{
+
+#social-media li:nth-child(4) a {
     background: #333;
 }
-#social-media li:nth-child(5) a{
+
+#social-media li:nth-child(5) a {
     background: #25d366;
 }
-#social-media li:nth-child(6) a{
+
+#social-media li:nth-child(6) a {
     background: #e72b35;
 }
-#social-media li a i{
+
+#social-media li a i {
     position: absolute;
     top: 17px;
     left: 20px;
     font-size: 27px;
 }
-#social-media li a span{
+
+#social-media li a span {
     font-weight: bold;
     letter-spacing: 1px;
     text-transform: uppercase;
     display: none;
 }
-#social-media li a:hover{
+
+#social-media li a:hover {
     z-index: 1;
     width: 200px;
     border-bottom: 1px solid rgba(0, 0, 0, .5);
     box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
 }
-#social-media li a:hover span{
+
+#social-media li a:hover span {
     display: block;
     padding-left: 30%;
 }
+
+
 /* End of social media */
-#nav-bar{
+
+#nav-bar {
     position: sticky;
     top: 0;
     z-index: 10;
 }
-.navbar-brand img{
+
+.navbar-brand img {
     height: 30px;
     padding-left: 30px;
 }
-.navbar-nav li{
+
+.navbar-nav li {
     padding: 0 10px;
 }
-.navbar-nav li a{
+
+.navbar-nav li a {
     float: right;
     text-align: left;
 }
-#nav-bar ul li a:hover{
+
+#nav-bar ul li a:hover {
     color: #007bff!important;
 }
+
+
 /* Hover crimson color start*/
+
+
 /* #nav-bar ul li a::before,
 #nav-bar ul li a::after{
     content: '';
@@ -114,40 +141,51 @@ Get in touch icons .fa not fully designed
 #navbar-nav ul li a:hover::after{
     transform: scaleX(1);
 } */
+
+
 /* Hover crimson color End */
 
-.navbar{
+.navbar {
     background: #fff;
 }
-.navbar-toggler{
+
+.navbar-toggler {
     border: none!important;
 }
-.nav-link{
+
+.nav-link {
     color: #555!important;
     font-weight: 300;
     font-size: 16px;
 }
+
+
 /*---Slider---*/
-#slider{
-    width: 100%;    
+
+#slider {
+    width: 100%;
 }
-.carousel-caption-welcome{
+
+.carousel-caption-welcome {
     top: 50%;
     transform: translateY(-50%);
     /* float:left; */
     bottom: initial !important;
 }
-#slider .carousel-caption h2{
+
+#slider .carousel-caption h2 {
     text-align: center;
     color: #efefef !important;
     padding-bottom: 1px;
 }
-#slider .carousel-caption h3{
+
+#slider .carousel-caption h3 {
     text-align: center;
     color: #efefef !important;
     padding-bottom: 10px;
 }
-#slider .carousel-caption h2::after{
+
+#slider .carousel-caption h2::after {
     content: '';
     background: #00ff4c;
     display: block;
@@ -155,7 +193,8 @@ Get in touch icons .fa not fully designed
     width: 200px;
     margin: 5px auto 5px;
 }
-#slider .carousel-caption h2:hover::after{
+
+#slider .carousel-caption h2:hover::after {
     content: '';
     background: #00eeff;
     display: block;
@@ -165,44 +204,57 @@ Get in touch icons .fa not fully designed
     transition: all 1.5s ease;
     cursor: progress;
 }
-.carousel-caption h5{
+
+.carousel-caption h5 {
     color: #fff;
     font-size: 42px;
 }
+
+
 /*-----------About----------- */
-#about{
+
+#about {
     padding-top: 50px;
     padding-bottom: 50px;
     color: #555;
 }
-#about .btn{
+
+#about .btn {
     margin-top: 20px;
     margin-bottom: 30px;
     border-radius: 16px;
 }
-#about .btn:hover{
+
+#about .btn:hover {
     background-color: rgb(83, 218, 49)!important;
 }
-.about-content{
+
+.about-content {
     padding-top: 20px;
 }
-.skills-bar p{
+
+.skills-bar p {
     margin-bottom: 6px;
     font-weight: 600;
 }
-.progress-bar{
+
+.progress-bar {
     border-radius: 16px;
 }
-.progress{
+
+.progress {
     border-radius: 16px !important;
     margin-bottom: 20px;
 }
+
+
 /*-------------About End------------- */
 
+
 /* -------------events------------- */
-#events{
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),
-    url(/img/events/finalists_william.jpg);
+
+#events {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(/img/events/finalists_william.jpg);
     background-size: cover;
     background-position: center;
     color: #efefef !important;
@@ -210,12 +262,14 @@ Get in touch icons .fa not fully designed
     padding-top: 50px;
     padding-bottom: 50px;
 }
-#events h1{
+
+#events h1 {
     text-align: center;
     color: #efefef !important;
     padding-bottom: 10px;
 }
-#events h1::after{
+
+#events h1::after {
     content: '';
     background: #efefef;
     display: block;
@@ -223,10 +277,12 @@ Get in touch icons .fa not fully designed
     width: 175px;
     margin: 20px auto 5px;
 }
-.events{
+
+.events {
     margin-top: 40px;
 }
-.icon{
+
+.icon {
     font-size: 40px;
     margin: 20px auto;
     padding: 15px;
@@ -236,29 +292,36 @@ Get in touch icons .fa not fully designed
     border-radius: 50%;
     align-items: center;
 }
-#events p{
+
+#events p {
     font-size: 14px;
     margin-top: 20px;
     color: #ccc;
 }
-.events .col-md-3:hover{
+
+.events .col-md-3:hover {
     background-color: #16b4e4fd;
     cursor: pointer;
     transition: 1.2s;
     border-radius: 20px;
 }
+
+
 /* ------------Executives------------ */
-#team{
+
+#team {
     padding-top: 50px;
     padding-bottom: 50px;
     color: #555;
 }
-h1{
+
+h1 {
     text-align: center;
     color: #555 !important;
     padding-bottom: 10px;
 }
-h1::after{
+
+h1::after {
     content: '';
     background: #007bff;
     display: block;
@@ -266,34 +329,41 @@ h1::after{
     width: 300px;
     margin: 20px auto 5px;
 }
-.profile-pic{
+
+.profile-pic {
     margin-top: 25px;
 }
-.profile-pic .img-box{
+
+.profile-pic .img-box {
     opacity: 1;
     display: block;
     position: relative;
 }
-.profile-pic .img-box img{
+
+.profile-pic .img-box img {
     filter: grayscale(0);
     border-radius: 50%;
 }
-.profile-pic .img-box img:hover{
+
+.profile-pic .img-box img:hover {
     filter: grayscale(1);
     cursor: pointer;
 }
-.profile-pic h2{
+
+.profile-pic h2 {
     font-size: 22px;
     font-weight: bold;
     margin-top: 15px;
     color: #007bff !important;
 }
-.profile-pic h3{
+
+.profile-pic h3 {
     font-size: 15px;
     font-weight: bold;
     margin-top: 15px;
 }
-#team .fa{
+
+#team .fa {
     height: 25px;
     width: 25px;
     color: #007bff !important;
@@ -301,7 +371,8 @@ h1::after{
     padding: 4px;
     border-radius: 50%;
 }
-.img-box ul{
+
+.img-box ul {
     padding: 15px 0;
     position: absolute;
     z-index: 2;
@@ -310,21 +381,29 @@ h1::after{
     transform: translateX(-50%);
     opacity: 0;
 }
-.img-box ul li{
+
+.img-box ul li {
     padding: 5px;
     display: inline-block;
 }
-.img-box:hover ul{
+
+.img-box:hover ul {
     opacity: 1;
 }
-.img-box ul, .img-box ul li{
+
+.img-box ul,
+.img-box ul li {
     transform: 0.5s;
 }
+
+
 /* ------------Executives End---------*/
+
+
 /* ------------ Learn With Us Section------------*/
-#promo{
-    background-image: linear-gradient(rgba(0,0,0,0.7),
-    rgba(0,0,0,0.7)),url(/img/learn_with_us/suolo_kioko.jpg);
+
+#promo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/learn_with_us/suolo_kioko.jpg);
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -334,12 +413,14 @@ h1::after{
     font-family: sans-serif;
     font-size: 38px;
 }
-#promo h1{
+
+#promo h1 {
     text-align: center;
     color: #efefef !important;
     padding-bottom: 10px;
 }
-#promo h1::after{
+
+#promo h1::after {
     content: '';
     background: #00ff4c;
     display: block;
@@ -347,14 +428,20 @@ h1::after{
     width: 350px;
     margin: 20px auto 5px;
 }
+
+
 /* ------------ Learn With Us Section End------------*/
+
+
 /* ------------Projects and plans------------*/
-#project h1{
+
+#project h1 {
     text-align: center;
     color: #3f3a3a !important;
     padding-bottom: 10px;
 }
-#project h1::after{
+
+#project h1::after {
     content: '';
     background: #007bff;
     display: block;
@@ -362,11 +449,13 @@ h1::after{
     width: 150px;
     margin: 20px auto 5px;
 }
-#project{
+
+#project {
     padding: 40 0;
     background: #efefef;
 }
-.single-project{
+
+.single-project {
     border-radius: 15px;
     margin: 10px auto;
     display: inline;
@@ -375,10 +464,12 @@ h1::after{
     background-color: #fff;
     transition: 0.5s;
 }
-.single-project:hover{
+
+.single-project:hover {
     box-shadow: 0 2px 20px #333;
 }
-.project-head{
+
+.project-head {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-color: #2196f3;
@@ -388,7 +479,8 @@ h1::after{
     text-align: center;
     width: 100%;
 }
-.project-head h2{
+
+.project-head h2 {
     color: #fff;
     font-size: 30px;
     font-weight: bold;
@@ -397,75 +489,98 @@ h1::after{
     /* text-transform: uppercase;
      */
 }
-.project-head p{
+
+.project-head p {
     font-size: 25px;
     color: #ccc;
     font-weight: bold;
     line-height: 30px;
 }
-#project span{
+
+#project span {
     font-size: 15px;
 }
+
+
 /* -----project content--- */
-.project-content{
+
+.project-content {
     display: inline;
     float: left;
     width: 100%;
     padding: 0 15px;
 }
-.project-content ul li{
+
+.project-content ul li {
     border-bottom: 1px solid #efefef;
     padding: 15px 10px;
     list-style: none;
 }
-ul li:last-child{
+
+ul li:last-child {
     border: none;
 }
-.fa-check-circle{
+
+.fa-check-circle {
     color: green;
     margin-right: 10px;
     font-size: 20px;
 }
-.fa-times-circle{
+
+.fa-times-circle {
     color: red;
     margin-right: 10px;
     font-size: 20px;
 }
+
+
 /* -----project content end--- */
+
+
 /* ------ project button----- */
-.project-button{
+
+.project-button {
     display: inline;
     float: left;
     padding: 15px 15px 30px;
     text-align: center;
-    width:100%;
+    width: 100%;
 }
-.join-btn{
+
+.join-btn {
     background-color: #2196f3;
     border-radius: 30px;
     display: inline-block;
     font-size: 18px;
     padding: 15px 50px;
     transition: 0.5s;
+    color: black;
 }
-.join-btn:hover{
+
+.join-btn:hover {
     border-color: 1px solid #fff;
     background-color: rgb(226, 158, 33);
 }
-a{
+
+a {
     text-decoration: none !important;
 }
+
+
 /* ------------Testimonials------------*/
-#testimonials{
+
+#testimonials {
     padding-top: 50px;
     padding-bottom: 50px;
 }
-#testimonials h1{
+
+#testimonials h1 {
     text-align: center;
     color: #3f3a3a !important;
     padding-bottom: 10px;
 }
-#testimonials h1::after{
+
+#testimonials h1::after {
     content: '';
     background: #007bff;
     display: block;
@@ -473,46 +588,58 @@ a{
     width: 170px;
     margin: 20px auto 5px;
 }
-#testimonials .row{
+
+#testimonials .row {
     margin-top: 30px;
 }
-.col-md-3{
+
+.col-md-3 {
     margin: 40px auto;
 }
-.profile{
+
+.profile {
     padding: 70px 10px 10px;
     background-color: #efefef;
 }
-.user{
+
+.user {
     width: 120px;
     height: 120px;
     border-radius: 50%;
 }
+
+
 /* Positioning the profile pic at the testimonials in the center */
-.profile img{
+
+.profile img {
     top: -60px;
     position: absolute;
     left: calc(50% - 60px);
     border: 10px solid #fff;
 }
-.profile h3{
+
+.profile h3 {
     font-size: 20px;
     margin-top: 15px;
     color: #007bff;
 }
-#testimonials span{
+
+#testimonials span {
     font-size: 12px;
     color: #333;
 }
-blockquote{
+
+blockquote {
     font-size: 16px;
     line-height: 30px;
 }
 
+
 /* Fix Bug in the quotations marks in the testimonials section(01:26:15) */
 
-blockquote::before{
-    content: '\93'; /*--opening quote icon--*/
+blockquote::before {
+    content: '\93';
+    /*--opening quote icon--*/
     font-size: 50px;
     color: #007bff;
     position: relative;
@@ -520,8 +647,10 @@ blockquote::before{
     bottom: -15px;
     right: 5px;
 }
-blockquote::after{
-    content: '\94'; /*--opening quote icon--*/
+
+blockquote::after {
+    content: '\94';
+    /*--opening quote icon--*/
     font-size: 50px;
     color: #007bff;
     position: relative;
@@ -530,26 +659,38 @@ blockquote::after{
     bottom: -15px;
     left: 5px;
 }
+
+
 /* Fix Bug in the quotations marks in the testimonials section End*/
-.profile:hover{
-    box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
+
+.profile:hover {
+    box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
     cursor: pointer;
     transition: 0.5s;
 }
+
+
 /* ------------Testimonials End------------*/
+
+
 /* ------------Footer Above------------*/
-#contact{
-    background:  #1f3f97 !important;
+
+#contact {
+    background: #1f3f97 !important;
     color: #fff;
     padding: 12px;
 }
+
+
 /*  */
-#contact h1{
+
+#contact h1 {
     text-align: center;
     color: #fdfdfd !important;
     padding-bottom: 10px;
 }
-#contact h1::after{
+
+#contact h1::after {
     content: '';
     background: #007bff;
     display: block;
@@ -557,57 +698,85 @@ blockquote::after{
     width: 170px;
     margin: 20px auto 5px;
 }
-#contact{
+
+#contact {
     background-color: #efefef;
     padding-top: 10px;
     padding-bottom: 0px;
     columns: #777;
 }
+
+
 /*------- Align the quick links content to the centre -------*/
-.contact-info ul a{
+
+.contact-info ul a {
     padding: .5px;
+    color: white;
 }
+
+
 /*------- Align the quick links content to the centre end-------*/
-.form-control{
+
+.form-control {
     border-radius: 20px !important;
     border: #66e05b !important;
 }
-.form-group::placeholder{
+
+.form-group::placeholder {
     color: rgb(124, 117, 117) !important;
 }
-#contact .btn{
+
+#contact .btn {
     margin-top: 10px;
     margin-bottom: 30px;
     border-radius: 16px;
 }
-.follow{
+
+.follow {
     background: #fff;
     padding: 10px;
     margin: 15px;
 }
-.contact-info .fa{
+
+.contact-info .fa {
     margin: 10px;
     columns: #007bff;
     font-weight: bold;
 }
 
-.footer .footer-content .links ul a{
+.footer .footer-content .links ul a {
     display: block;
     margin-bottom: 10px;
     color: white;
     font-size: 1.2em;
     transition: all .3s;
 }
-.footer .footer-content .links ul a:hover{
+
+.footer .footer-content .links ul a:hover {
     color: rgb(219, 228, 87);
     margin-left: 18px;
     transition: all .3s;
 }
+
+
 /*---------------Footer Above ---------------*/
+
+
 /*---------------Footer Bottom---------------*/
-#footer{
-    background:  rgb(22, 44, 107);
+
+#footer {
+    background: rgb(22, 44, 107);
     color: #fff;
     padding: 12px;
 }
+
+.socials a {
+    color: white;
+}
+
+.socials i:hover {
+    color: black;
+}
+
+
 /*---------------Footer---------------*/

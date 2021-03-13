@@ -1,4 +1,4 @@
-body{
+/* body{
     background: #86d7f5;
 }
 .search-box{
@@ -29,4 +29,55 @@ body{
      line-height: 50px;
      color: #006990;
      cursor: pointer;
+} */
+
+body {
+    background: #86d7f5;
+}
+
+.search-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.search-box input {
+    height: 50px;
+    width: 0px;
+    padding: 0px 0px;
+    padding-right: 50px;
+    transition: 1.5s;
+}
+
+.search-box input:focus {
+    width: 400px;
+    padding-left: 20px;
+}
+
+.search-box:before {
+    content: "\f002";
+    font-family: 'FontAwesome';
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    line-height: 50px;
+    /* color: #006990; */
+    cursor: pointer;
+    box-shadow: none;
+}
+
+.form-inline {
+    border: 1px solid #333;
+    border-radius: 10px;
+    /* box-shadow: 0 0 1px 1px rgba(0 0 0 0); */
+    /* box-shadow: 0px 1px 0px 0px #333; */
+}
+
+.form-inline .btn {
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
