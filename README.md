@@ -42,3 +42,4 @@ Hitherto, we give sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.
 ##### Progress Report
 -Merge Joy's work(Search bar)
 -Scroll to top working on Elijah's, merge to main from the owl folder
+-Check in the issues section
