@@ -1,7 +1,7 @@
 ### Jomo Kenyatta University of Agriculture and Technology Association of Geomatic and Geospatial Eng. Students (AGGES) 
 <hr>
 
-This is the Official AGGES website,a JKUAT Students based club where we meet either Physically(Mainly) or virtually.The main vision of this club is to expand the knowledge of the students on :Surveying,Geospatial Information Sciences, remote sensing, space technologies, work ethics and even individualistic social welbeing at large.
+This is the Official AGGES website to be,still under production,a JKUAT Students based club where we meet either Physically(Mainly) or virtually.The main vision of this club is to expand the knowledge of the students on :Surveying,Geospatial Information Sciences, remote sensing, space technologies, work ethics and even individualistic social welbeing at large.
 with our website, we will be in a position to share and reach out to a greater network.This will expand our access to more resources for our academic good.
 
 
