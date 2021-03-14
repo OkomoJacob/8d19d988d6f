@@ -12,7 +12,6 @@ To make this website a success, at least the following have been incorporated in
   * Images ```(.png, .jpeg, .jpg files)```
   * Web browser e.g [Google chrome](http://google.com/), Mozilla Firefox, or Edge to render and debug our code
   * Text editor e.g [VS Code](), for writing and editting the code or any other [editor of your choice]()
-```
 
 #### Overview of the final product and everything
 <hr>
@@ -35,7 +34,7 @@ do happen. If you find a mistake in this project—maybe a mistake in the text o
 the code—We would be grateful if you could report this to us via [Jacob Okomo](https://okomojacob.herokuapp.com) or [Christine Joy](https://github.com/JoyChristine) By doing so, you can
 save others from frustration and help me improve subsequent versions of this mini-project and related works. 
 
-#### Credits
+#### Credits and Acknowledgements
 <hr>
 
 Hitherto, we give sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.com),[Elijah Kungu](https://github.com/ELIJAHKUNGU) and [Christine Joy](https://github.com/JoyChristine) who has since been committing to this project.
