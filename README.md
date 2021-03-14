@@ -11,7 +11,7 @@ To make this website a success, at least the following have been incorporated in
 
   * Images ```(.png, .jpeg, .jpg files)```
   * Web browser e.g [Google chrome](http://google.com/), Mozilla Firefox, or Edge to render and debug our code
-  * Text editor e.g [VS Code](), for writing and editting the code
+  * Text editor e.g [VS Code](), for writing and editting the code or any other [editor of your choice]()
 ```
 
 #### Overview of the final product and everything
