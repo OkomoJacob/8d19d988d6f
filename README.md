@@ -6,7 +6,7 @@ with our website, we will be in a position to share and reach out to a greater n
 
 
 #### Dependencies, Requirements and Tools used
-=============================================
+<hr>
 
 ```
 Images(.png, .jpeg, .jpg files)
@@ -15,7 +15,7 @@ Text editor e.g VS Code, for writing and editting the code
 ```
 
 #### Overview of the final product and everything
-===============================================
+<hr>
 
 This is a free and open source project(It only uses freely available products) that was started by an inspired member of the JKUAT AGGES students club.The idea to start this begun in November 2019.Then later escalated during the COVID-19 academic break.
 We now call for intereste developers to come and collaborate and make this project a success.
