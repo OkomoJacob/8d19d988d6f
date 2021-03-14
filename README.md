@@ -23,12 +23,12 @@ Through such, we get to learn and share more within our team.
 
 
 #### Usage
-=========
+<hr>
 
 The main idea was to put the club in cloud for access by any other interested person, to have a view and possibly reach out to us.
 
 #### Errata.
-===========
+<hr>
 
 Although we have taken every care to ensure the accuracy of our content, mistakes
 do happen. If you find a mistake in this project—maybe a mistake in the text or
@@ -36,6 +36,8 @@ the code—We would be grateful if you could report this to us via [Jacob Okomo]
 save others from frustration and help me improve subsequent versions of this mini-project and related works. 
 
 #### Credits
+<hr>
+
 Hitherto, we give sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.com),[Elijah Kungu](https://github.com/ELIJAHKUNGU) and [Christine Joy](https://github.com/JoyChristine) who has since been committing to this project.
 -Thank you
 
