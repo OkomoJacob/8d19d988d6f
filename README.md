@@ -7,9 +7,9 @@ with our website, we will be in a position to share and reach out to a greater n
 
 #### Built With
 <hr>
-To make this website a success, at least the following have been incorporated
-```
-Images(.png, .jpeg, .jpg files)
+To make this website a success, at least the following have been incorporated in this work:
+
+  * Images (.png, .jpeg, .jpg files)
 web browser e.g Google chrome, Mozilla Firefox, or Edge to render and debug our code
 Text editor e.g VS Code, for writing and editting the code
 ```
