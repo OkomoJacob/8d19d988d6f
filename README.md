@@ -5,9 +5,9 @@ This is the Official AGGES website to be,still under production,a JKUAT Students
 with our website, we will be in a position to share and reach out to a greater network.This will expand our access to more resources for our academic good.
 
 
-#### Dependencies, Requirements and Tools used
+#### Built With
 <hr>
-
+To make this website a success, at least the following have been 
 ```
 Images(.png, .jpeg, .jpg files)
 web browser e.g Google chrome, Mozilla Firefox, or Edge to render and debug our code
