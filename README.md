@@ -9,9 +9,9 @@ with our website, we will be in a position to share and reach out to a greater n
 <hr>
 To make this website a success, at least the following have been incorporated in this work:
 
-  * Images (.png, .jpeg, .jpg files)
-web browser e.g Google chrome, Mozilla Firefox, or Edge to render and debug our code
-Text editor e.g VS Code, for writing and editting the code
+  * Images ```(.png, .jpeg, .jpg files)```
+  * Web browser e.g [Google chrome](http://google.com/), Mozilla Firefox, or Edge to render and debug our code
+  * Text editor e.g VS Code, for writing and editting the code
 ```
 
 #### Overview of the final product and everything
