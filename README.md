@@ -17,8 +17,8 @@ with our website, we will be in a position to share and reach out to a greater n
 To make this website a success, at least the following have been incorporated in this work:
 
   * Images ```(.png, .jpeg, .jpg files)```
-  * Web browser e.g [Google chrome](http://google.com/), Mozilla Firefox, or Edge to render and debug our code
-  * Text editor e.g [VS Code](), for writing and editting the code or any other [editor of your choice]()
+  * Web browser e.g [Google chrome](https://www.google.com/chrome/?brand=BNSD&gclid=Cj0KCQjwi7yCBhDJARIsAMWFScMMWOP9PFQ6bD-9sVBbj1VMpdEDPE_swp08gnzIMI126yT0BvE1LJoaAuwlEALw_wcB&gclsrc=aw.ds), Mozilla Firefox, or Edge to render and debug our code
+  * Text editor e.g [VS Code](https://code.visualstudio.com/download), for writing and editting the code or any other [editor of your choice](https://kinsta.com/blog/best-text-editors/)
 
 #### Overview of the final product and everything
 <hr>
