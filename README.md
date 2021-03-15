@@ -1,7 +1,7 @@
 ### Jomo Kenyatta University of Agriculture and Technology Association of Geomatic and Geospatial Eng. Students (AGGES) 
 <hr>
 
-<img align="left" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">![GitHub repo size](https://img.shields.io/github/repo-size/OkomoJacob/8d19d988d6f?color=brightgreen&style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/8d19d988d6f?&style=plastic&color=brightgreen) ![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/8d19d988d6f?style=plastic&color=brightgreen)
+<img align="left"src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">![GitHub repo size](https://img.shields.io/github/repo-size/OkomoJacob/8d19d988d6f?color=brightgreen&style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/8d19d988d6f?&style=plastic&color=brightgreen) ![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/8d19d988d6f?style=plastic&color=brightgreen)
 ![Forks](https://img.shields.io/github/forks/OkomoJacob/8d19d988d6f?style=social) ![APM](https://img.shields.io/apm/dm/vim-mode)![shields](https://img.shields.io/opencollective/sponsors/0)
 
 
