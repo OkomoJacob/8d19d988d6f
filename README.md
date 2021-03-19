@@ -6,7 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/OkomoJacob/8d19d988d6f?style=social) ![APM](https://img.shields.io/apm/dm/vim-mode) ![shields](https://img.shields.io/opencollective/sponsors/0) ![Hackage-Deps](https://img.shields.io/hackage-deps/v/lens) ![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/8d19d988d6f)
 
 #### Find Your Developers
-![Twitter Follow](https://img.shields.io/twitter/follow/okomojacob?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/kim__joy?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/CodeGeek_254?style=social)
+[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob) ![Twitter Follow](https://img.shields.io/twitter/follow/kim__joy?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/CodeGeek_254?style=social)
 
 This is the Official AGGES website to be,still under production,a JKUAT Students based club where we meet either Physically(Mainly) or virtually.The main vision of this club is to expand the knowledge of the students on :Surveying,Geospatial Information Sciences, remote sensing, space technologies, work ethics and even individualistic social welbeing at large.
 with our website, we will be in a position to share and reach out to a greater network.This will expand our access to more resources for our academic good.
