@@ -1,12 +1,14 @@
 ### Jomo Kenyatta University of Agriculture and Technology Association of Geomatic and Geospatial Eng. Students (AGGES) 
 <hr>
 
-<img align="left" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"><br>
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub repo size](https://img.shields.io/github/repo-size/okomojacob/8d19d988d6f?color=green-yellow&logo=github&logoColor=blue) ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/8d19d988d6f?logo=visual-studio-code) ![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/8d19d988d6f?style=plastic&color=brightgreen) 
 ![Forks](https://img.shields.io/github/forks/OkomoJacob/8d19d988d6f?style=social) ![APM](https://img.shields.io/apm/dm/vim-mode) ![shields](https://img.shields.io/opencollective/sponsors/0) ![Hackage-Deps](https://img.shields.io/hackage-deps/v/lens) ![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/8d19d988d6f)
 
 #### Find Your Developers
-[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob) ![Twitter Follow](https://img.shields.io/twitter/follow/kim__joy?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/CodeGeek_254?style=social)
+[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob)
+[![image](https://img.shields.io/twitter/follow/CodeGeek_254?style=social)](https://twitter.com/CodeGeek_254)
+[![image](https://img.shields.io/twitter/follow/kim__joy?style=social)](https://twitter.com/kim__joy)
 
 This is the Official AGGES website to be,still under production,a JKUAT Students based club where we meet either Physically(Mainly) or virtually.The main vision of this club is to expand the knowledge of the students on :Surveying,Geospatial Information Sciences, remote sensing, space technologies, work ethics and even individualistic social welbeing at large.
 with our website, we will be in a position to share and reach out to a greater network.This will expand our access to more resources for our academic good.
