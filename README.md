@@ -40,7 +40,7 @@ The main idea was to put the club in cloud for access by any other interested pe
 
 Although we have taken every care to ensure the accuracy of our content, mistakes
 do happen. If you find a mistake in this project—maybe a mistake in the text or
-the code—We would be grateful if you could report this to us via [Jacob Okomo](https://okomojacob.herokuapp.com) or [Christine Joy](https://github.com/JoyChristine) By doing so, you can
+the code—We would be grateful if you could report this to us via [Jacob Okomo](https://okomojacob.herokuapp.com), [Christine Joy](https://github.com/JoyChristine) or [Elijah Kungu](https://github.com/ELIJAHKUNGU) By doing so, you can
 save others from frustration and help me improve subsequent versions of this mini-project and related works. 
 
 #### Credits and Acknowledgements
