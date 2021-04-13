@@ -10,8 +10,8 @@
 [![image](https://img.shields.io/twitter/follow/CodeGeek_254?style=social)](https://twitter.com/CodeGeek_254)
 [![image](https://img.shields.io/twitter/follow/kim__joy?style=social)](https://twitter.com/kim__joy)
 
-This is the Official AGGES website to be,still under production,a JKUAT Students based club where we meet either Physically(Mainly) or virtually.The main vision of this club is to expand the knowledge of the students on :Surveying,Geospatial Information Sciences, remote sensing, space technologies, work ethics and even individualistic social welbeing at large.
-with our website, we will be in a position to share and reach out to a greater network.This will expand our access to more resources for our academic good.
+This is the Official AGGES website to be,still under production,a JKUAT Students based club where we meet either Physically(Mainly) or virtually.The main vision of the club is to expand the knowledge of the students on :Surveying,Geospatial Information Sciences, remote sensing, space technologies, work ethics and even individualistic social welbeing at large.
+With our website, we will be in a position to share and reach out to a greater network.This will expand our access to more resources for our academic good.
 
 
 #### Built With
