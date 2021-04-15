@@ -2,13 +2,14 @@
 <hr>
 
 [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub repo size](https://img.shields.io/github/repo-size/okomojacob/8d19d988d6f?color=green-yellow&logo=github&logoColor=blue) ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/8d19d988d6f?logo=visual-studio-code) ![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/8d19d988d6f?style=plastic&color=brightgreen) 
+![GitHub repo size](https://img.shields.io/github/repo-size/okomojacob/8d19d988d6f?color=green-yellow&logo=github&logoColor=blue) 
+![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/8d19d988d6f?logo=visual-studio-code) 
+![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/8d19d988d6f)
+![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/8d19d988d6f?style=plastic&color=brightgreen) 
 ![Forks](https://img.shields.io/github/forks/OkomoJacob/8d19d988d6f?style=social) 
 ![APM](https://img.shields.io/apm/dm/vim-mode) 
 ![shields](https://img.shields.io/opencollective/sponsors/0) 
-![Hackage-Deps](https://img.shields.io/hackage-deps/v/lens) 
-![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/8d19d988d6f)
-[![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/OkomoJacob/8d19d988d6f) 
+[![CircleCI Status](https://circleci.com/gh/OkomoJacob/8d19d988d6f.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/OkomoJacob/8d19d988d6f) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
 #### Find Your Developers
