@@ -7,8 +7,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/8d19d988d6f)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/8d19d988d6f?style=plastic&color=brightgreen) 
 ![Forks](https://img.shields.io/github/forks/OkomoJacob/8d19d988d6f?style=social) 
-![APM](https://img.shields.io/apm/dm/vim-mode) 
-![shields](https://img.shields.io/opencollective/sponsors/0) 
 [![CircleCI Status](https://circleci.com/gh/OkomoJacob/8d19d988d6f.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/OkomoJacob/8d19d988d6f) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
